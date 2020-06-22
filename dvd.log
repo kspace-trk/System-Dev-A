@@ -1,0 +1,11 @@
+﻿  common.c
+z:\desktop\ソースコード\common.c(554): warning C4477: 'printf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'const TITLE' です
+  goods.c
+  lend.c
+  main.c
+  member.c
+  menu.c
+  ret.c
+  コードを生成中...
+LINK : warning LNK4075: /INCREMENTAL は /OPT:ICF の指定によって無視されます。
+  dvd.vcxproj -> Z:\Desktop\ソースコード\Release\dvd.exe
